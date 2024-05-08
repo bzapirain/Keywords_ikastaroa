@@ -117,7 +117,7 @@ body {
 /* HEADER */
 .chatbox__header {
  position: sticky;
-    background: #cc3;
+    background: rgb(35, 209, 87);
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -136,7 +136,7 @@ body {
 .chatbox__heading--header {
     font-size: 1.2rem;
 
-    color: white; 
+    color: rgb(0, 0, 0); 
 
 }
 
@@ -145,7 +145,7 @@ body {
 .chatbox__description--header {
     font-size: .9rem;
 
-    color: white; 
+    color: rgb(8, 8, 8); 
 
 }
 
@@ -176,7 +176,7 @@ body {
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     background: var(--primary);
-    color: white;
+    color: rgb(5, 5, 5);
 }
 
 /* FOOTER */
@@ -202,7 +202,7 @@ body {
 }
 
 .chatbox__send--footer {
-    color: white;
+    color: rgb(8, 8, 8);
 }
 
 .chatbox__button button,
