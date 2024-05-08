@@ -82,6 +82,10 @@ keywords = {
     "titulacion": "request_oferta",
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
+
+    "mapa": "request_gps",
+    "direccion" : "request_gps",
+    "calle": "request_gps",
     
 
 }
@@ -97,6 +101,7 @@ answer = {
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_inscripcion": "¿Te refieres a la matricula o a la prematrícula?",
+    "request_gps": "la dirección es tal y cual",
     "request_telefono": "el télefono es el XXXXXXXXX",
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
