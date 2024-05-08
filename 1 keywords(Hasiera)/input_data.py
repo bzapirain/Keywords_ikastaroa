@@ -12,6 +12,7 @@ keywords = {
     "luego": "request_despedida",
     "vista": "request_despedida",
     "agur": "request_despedida",
+    "aio": "request_despedida",
 
  
     "horario": "request_contacto_horarios",
@@ -21,6 +22,8 @@ keywords = {
     "secretaria": "request_contacto_horarios",
     "horarios": "request_contacto_horarios",
 
+    "inscripciones" : "request_inscripcion",
+    "inscripcion" : "request_inscripcion",
 
     "prematricula" : "request_pre_matricula",
     "pre-matricula": "request_pre_matricula",
@@ -42,8 +45,7 @@ keywords = {
     "matricular": "request_matricula",
     "matriculacion": "request_matricula",
    
-    "inscripciones" : "request_inscripcion",
-    "inscripcion" : "request_inscripcion",
+    
     
     "telefono": "request_telefono",
     "tlfno": "request_telefono",
