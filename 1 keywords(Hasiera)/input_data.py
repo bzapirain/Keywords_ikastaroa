@@ -42,19 +42,24 @@ keywords = {
     "matricular": "request_matricula",
     "matriculacion": "request_matricula",
    
+    "inscripciones" : "request_inscripcion",
+    "inscripcion" : "request_inscripcion",
+    
+    "telefono": "request_telefono",
+    "tlfno": "request_telefono",
+    "tlfn": "request_telefono",
+    "llamar": "request_telefono",
+    "llamada": "request_telefono",
+
 
     "contacto" : "request_contacto",
-    "telefono": "request_contacto",
-    "tlfno": "request_contacto",
     "email": "request_contacto",
     "direccion": "request_contacto",
     "localizacion": "request_contacto",
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
     "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
-    "llamar": "request_contacto",
-    "llamada": "request_contacto",
+   
     "correo": "request_contacto",
     "electronico": "request_contacto",
     "gmail": "request_contacto",
@@ -89,7 +94,8 @@ answer = {
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
-
+    "request_inscripcion": "¿Te refieres a la matricula o a la prematrícula?",
+    "request_telefono": "el télefono es el XXXXXXXXX",
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
 

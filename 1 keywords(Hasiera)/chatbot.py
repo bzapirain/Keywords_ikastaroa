@@ -33,6 +33,7 @@ def clean_text(query):
     for idx, vocal in enumerate(vocales):        
         sentence = re.sub(tildes[idx], vocal, sentence)
 
+    sentence = sentence.replace('ü','u')
     sentence_array = sentence.split()
      
     return sentence_array
